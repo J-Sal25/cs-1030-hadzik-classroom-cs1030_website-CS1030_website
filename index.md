@@ -9,5 +9,5 @@ layout: default
 
 [Github Themes](https://pages.github.com/themes/)
 
-<img src="/assets/img/MePic.jpg" alt="Italian Trulli">
+<img src="/assets/img/MePic.jpg" alt="Josh aka Me">
 
