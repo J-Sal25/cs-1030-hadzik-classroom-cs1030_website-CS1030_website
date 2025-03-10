@@ -15,9 +15,9 @@ layout: default
 </table>
 
 |Favorite Songs|
-* 1. Crying Lightning -  Arctic Monkeys 
-* 2. Like Him - Tyler the Creator
-* 3. Downtown - Anitta, J Balvin 
+*  Crying Lightning -  Arctic Monkeys 
+*  Like Him - Tyler the Creator
+*  Downtown - Anitta, J Balvin 
 
 
 
